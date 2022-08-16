@@ -1,4 +1,4 @@
-# Video-Chat-WebApp (https://video-chat-web-app21.netlify.app/)
+# Video-Chat-WebApp
 # Getting Started with Create React App
 
 ![image](https://user-images.githubusercontent.com/75901275/184697520-3ccb8ac3-2eea-47d2-a53a-249454f4c974.png)
